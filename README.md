@@ -1,2 +1,6 @@
-# AMXX
+# AMX MOD X
 Small AMX MOD X Plugins
+
+If you find a bug / error, report to me.
+e: alghtryer@gmail.com 
+w: alghtryer.github.io 	
