@@ -1,5 +1,7 @@
 ### Simple Public VIP v1.0 [![](https://img.shields.io/badge/DOWNLOAD-blue)](https://github.com/alghtryer/AMXX/blob/master/SimplePublicVIP/spv.rar?raw=true)
 
+<br>
+
 **VIP Player ( flag t ) have several privileges, which will not give much advantage over other players. 
 You can adjust everything with cvar.**
 
