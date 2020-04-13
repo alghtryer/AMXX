@@ -2,7 +2,7 @@
 
 **VIP Player ( flag t ) have several privileges, which will not give much advantage over other players. 
 You can adjust everything with cvar.**
-
+<br>
 **Features:**
 - *Free he, smoke and flash bomb.*
 - *Kevlar and Helmet*
@@ -11,10 +11,10 @@ You can adjust everything with cvar.**
 - *Only VIP can buy AWP.*
 - *Show damage.*
 - *Happy Hour.*
-
+<br><br>
 **How set VIP?** <br>
 *- Put flag "t" on player STEAM ID, IP or NAME.*
-
+<br><br>
 **Cvars :** 
 ***// 0 = off / 1 = on***
 - *spv_menu 1 = Show Menu*
@@ -32,9 +32,9 @@ You can adjust everything with cvar.**
 - *spv_start 23 = When Start Happy Hour 2 = 2 am and 14 = 2 pm*
 - *spv_end 9 = When End Happy Hour 2 = 2 am and 14 = 2 pm*	
 - *spv_roundsmenu 3 = Menu with free weapon will be show on third ( cvar ) round*
-
-
+<br>
+<br>
 **Changelog:** <br>
-**- v1.0 [13. Apr 2020] :** *First release.*
-
+**- v1.0 [13. Apr 2020] :** *First release.* <br>
+<br><br>
 ![](https://i.imgur.com/SfHMrn1.png)
