@@ -1,5 +1,5 @@
 ### Simple Public VIP v1.0
-Download : [CLICK](https://github.com/alghtryer/AMXX/blob/master/SimplePublicVIP/spv.rar?raw=true)
+![[](https://github.com/alghtryer/AMXX/blob/master/SimplePublicVIP/spv.rar?raw=true)](https://img.shields.io/badge/DOWNLOAD-blue)
 
 
 **VIP Player ( flag t ) have several privileges, which will not give much advantage over other players. 
