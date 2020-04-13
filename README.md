@@ -3,4 +3,4 @@
 
 **If you find a bug / error, report to me.** <br>
 **e: alghtryer@gmail.com** <br>
-**w: alghtryer.github.io **	
+**w: alghtryer.github.io**	
