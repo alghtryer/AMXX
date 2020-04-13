@@ -1,18 +1,18 @@
-####Simple Public VIP v1.0
+#### Simple Public VIP v1.0
 
 **VIP Player ( flag t ) have several privileges, which will not give much advantage over other players. 
 You can adjust everything with cvar.**
 
 **Features:**
-***- Free he, smoke and flash bomb.
-- Kevlar and Helmet 
-- Defuse for CT 
-- Menu with free weapon	( ak47/m4a1 + deagle ). Menu will be remove after 15 ( cvar ) seconds.  
-- Only VIP can buy AWP. 
-- Show damage.
-- Happy Hour.***
+- ***Free he, smoke and flash bomb.***
+- ***Kevlar and Helmet***
+- ***Defuse for CT***
+- ***Menu with free weapon	( ak47/m4a1 + deagle ). Menu will be remove after 15 ( cvar ) seconds.***  
+- ***Only VIP can buy AWP.*** 
+- ***Show damage.***
+- ***Happy Hour.***
 
-**How set VIP?**
+**How set VIP?** <br>
 ***- Put flag "t" on player STEAM ID, IP or NAME.***
 
 **Cvars :** 
