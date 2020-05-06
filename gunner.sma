@@ -23,8 +23,8 @@ const m_pActiveItem = 373
 const XoWeapon      = 4
 const XoPlayer      = 5
 
-new const iModel[ ] = "models/v_model.mdl"
-new const iModelp[ ] = "models/p_model.mdl"
+new const iModel[ ] = "models/v_pbgunner.mdl"
+new const iModelp[ ] = "models/p_pbgunner.mdl"
 
 
 public plugin_init( ) 
